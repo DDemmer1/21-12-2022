@@ -1,4 +1,4 @@
-package de.demmer.dennis;
+package de.demmer.dennis.ui;
 
 import java.awt.FlowLayout;
 import java.awt.image.BufferedImage;
@@ -13,7 +13,7 @@ import javax.swing.JLabel;
 public class Renderer {
 
 	
-
+	
 	public void render(Drawable drawable) {
 		
 		try {
